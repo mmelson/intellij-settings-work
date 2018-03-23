@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="restore-Jenkinsfile" type="Groovy" />
+      <mapping pattern="Jenkinsfile-backup" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-and-restore-Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="docker-host-vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="flows" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
