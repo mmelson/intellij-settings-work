@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*Repository.java" />
     <recentFileMasks>
       <mask>*Repositor</mask>
       <mask>*Repository</mask>
       <mask>*Repository.</mask>
       <mask>*Repository.jav</mask>
-      <mask>*Repository.java</mask>
       <mask>*.ym</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
@@ -35,6 +34,7 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.yml</mask>
+      <mask>*Repository.java</mask>
     </recentFileMasks>
   </component>
 </application>
