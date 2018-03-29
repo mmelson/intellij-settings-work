@@ -26,6 +26,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.jmx.Agent" />
     <EXCLUDED_PACKAGE NAME="org.aspectj.lang.annotation.Before" />
     <EXCLUDED_PACKAGE NAME="org.aspectj.weaver" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.gateway.AsyncShardFetch.List" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="org.python" />
     <EXCLUDED_PACKAGE NAME="play.api" />
