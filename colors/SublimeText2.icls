@@ -1,7 +1,7 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-04-02T10:46:52</property>
+    <property name="modified">2018-04-02T17:18:44</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -678,7 +678,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="ff04f2" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
