@@ -92,8 +92,11 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="CompileProject">
+  <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="shift f9" />
   </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -102,6 +105,7 @@
   <action id="DatabaseView.PropertiesAction">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Debug" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
