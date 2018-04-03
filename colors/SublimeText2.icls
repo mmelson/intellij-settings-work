@@ -1,7 +1,7 @@
 <scheme name="Sublime Text 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-04-02T17:18:44</property>
+    <property name="modified">2018-04-03T15:47:07</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -611,27 +611,27 @@
     </option>
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="d7469b" />
+        <option name="FOREGROUND" value="ff" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="1897d7" />
+        <option name="FOREGROUND" value="ffff" />
       </value>
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="d79f52" />
+        <option name="FOREGROUND" value="ffff00" />
       </value>
     </option>
     <option name="RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="d726" />
+        <option name="FOREGROUND" value="ff00" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="d7379a" />
+        <option name="FOREGROUND" value="ff00ff" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
