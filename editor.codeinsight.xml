@@ -35,6 +35,7 @@
     <EXCLUDED_PACKAGE NAME="sun.management.Agent" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
 </application>
