@@ -19,6 +19,7 @@
     <EXCLUDED_PACKAGE NAME="javax.management.relation.Role" />
     <EXCLUDED_PACKAGE NAME="javax.smartcardio" />
     <EXCLUDED_PACKAGE NAME="javax.swing.text.Position" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal" />
     <EXCLUDED_PACKAGE NAME="jodd.lagarto.Scanner.Position" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy.agent.builder.AgentBuilder" />
@@ -34,6 +35,7 @@
     <EXCLUDED_PACKAGE NAME="scala.collection" />
     <EXCLUDED_PACKAGE NAME="scala.reflect" />
     <EXCLUDED_PACKAGE NAME="sun.management.Agent" />
+    <EXCLUDED_PACKAGE NAME="sun.rmi" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
