@@ -12,8 +12,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Repository.java</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*API.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
