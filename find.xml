@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,11 +14,11 @@
     <mask>*.mxml</mask>
     <mask>*Repository.java</mask>
     <mask>*API.java</mask>
-    <mask>*.yml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*integration-test.yml</mask>
     <mask>*.gradle</mask>
     <mask>*Test.java</mask>
+    <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
