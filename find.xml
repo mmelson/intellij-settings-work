@@ -18,7 +18,7 @@
     <mask>*.gradle</mask>
     <mask>*Test.java</mask>
     <mask>*.java</mask>
-    <mask>*.yml</mask>
     <mask>application.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
