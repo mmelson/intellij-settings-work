@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,8 +21,8 @@
     <mask>*Test.java</mask>
     <mask>application.yml</mask>
     <mask>*Repository.java</mask>
-    <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
