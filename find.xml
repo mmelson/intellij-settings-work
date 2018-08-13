@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -17,10 +17,10 @@
     <mask>*Repository.java</mask>
     <mask>*.json</mask>
     <mask>*Test.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
