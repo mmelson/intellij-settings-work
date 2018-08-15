@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '.../receiver/src/main/java/com/edgewise/receiver/config/AgentTimeSyncConfig.java [receiver_main]'" />
+    <option name="defaultScopeName" value="File '.../receiver/src/main/java/com/edgewise/receiver/config/AgentTimeSyncConfig.java [receiver_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../receiver/src/main/java/com/edgewise/receiver/config/AgentTimeSyncConfig.java [receiver_main]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
