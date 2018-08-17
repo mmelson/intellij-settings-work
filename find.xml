@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../common/common-cloud/src/main/java/com/edgewise/monitoring/HealthMetricsConfiguration.java [common-cloud_main]'" />
+    <option name="defaultScopeName" value="File '.../common/common-cloud/src/main/java/com/edgewise/monitoring/HealthMetricsConfiguration.java [common-cloud_main]'" />
+    <option name="SEARCH_SCOPE" value="File '.../common/common-cloud/src/main/java/com/edgewise/monitoring/HealthMetricsConfiguration.java [common-cloud_main]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
