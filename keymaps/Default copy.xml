@@ -138,6 +138,9 @@
     <keyboard-shortcut first-keystroke="meta right" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta help" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
