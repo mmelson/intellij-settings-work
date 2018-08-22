@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Strings/Copy String Concatenation Text to the Clipboard" />
+    <ignoreAction name="Java/Strings/Replace + with StringBuilder.append()" />
+  </component>
+</application>
