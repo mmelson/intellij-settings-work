@@ -16,10 +16,10 @@
     <mask>*Repository.java</mask>
     <mask>*.json</mask>
     <mask>*Test.java</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
