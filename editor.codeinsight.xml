@@ -23,6 +23,7 @@
     <EXCLUDED_PACKAGE NAME="jodd.lagarto.Scanner.Position" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="net.bytebuddy.agent.builder.AgentBuilder" />
+    <EXCLUDED_PACKAGE NAME="netscape.security" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.math3.util.MathArrays.Position" />
     <EXCLUDED_PACKAGE NAME="org.apache.log4j.jmx.Agent" />
     <EXCLUDED_PACKAGE NAME="org.aspectj.lang.annotation.Before" />
