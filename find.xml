@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../sync/src/test/java/com/edgewise/data/sync/aws/monitor/FileMonitorTest.java [sync_test]'" />
-    <option name="defaultScopeName" value="File '.../sync/src/test/java/com/edgewise/data/sync/aws/monitor/FileMonitorTest.java [sync_test]'" />
-    <option name="SEARCH_SCOPE" value="File '.../sync/src/test/java/com/edgewise/data/sync/aws/monitor/FileMonitorTest.java [sync_test]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
