@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Repository.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -12,7 +13,6 @@
     <mask>*API.java</mask>
     <mask>*integration-test.yml</mask>
     <mask>application.yml</mask>
-    <mask>*Repository.java</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
@@ -25,5 +25,6 @@
     <mask>*Test.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*Repository.java</mask>
   </component>
 </application>
