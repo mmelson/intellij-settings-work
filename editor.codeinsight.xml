@@ -9,6 +9,7 @@
     <EXCLUDED_PACKAGE NAME="com.gargoylesoftware.htmlunit.javascript.host.geo.Position" />
     <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar.pack.Package.File" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xalan.internal.xsltc.compiler.Copy" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xpath.internal.operations.And" />
     <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xpath.internal.operations.Or" />
     <EXCLUDED_PACKAGE NAME="com.sun.prism.Texture" />
