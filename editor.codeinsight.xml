@@ -31,6 +31,7 @@
     <EXCLUDED_PACKAGE NAME="org.aspectj.weaver" />
     <EXCLUDED_PACKAGE NAME="org.elasticsearch.gateway.AsyncShardFetch.List" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.Collection" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.validator.constraints" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="org.python" />
     <EXCLUDED_PACKAGE NAME="org.springframework.cglib" />
