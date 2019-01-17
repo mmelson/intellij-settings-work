@@ -23,7 +23,8 @@
     <mask>*Repository.java</mask>
     <mask>*.sql</mask>
     <mask>*Test.java</mask>
-    <mask>*.yml</mask>
     <mask>*.gradle</mask>
+    <mask>*Properties.java</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
