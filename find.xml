@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="F*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -26,5 +27,6 @@
     <mask>*Properties.java</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
+    <mask>F*.java</mask>
   </component>
 </application>
