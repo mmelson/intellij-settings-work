@@ -23,10 +23,10 @@
     <mask>*Properties.java</mask>
     <mask>*.java</mask>
     <mask>F*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*Repository.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
