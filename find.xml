@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="File '.../policy/src/integration-test/java/com/edgewise/policy/repositories/RecommendedPolicyRepositoryTest.java [policy_integrationTest]'" />
+    <option name="defaultScopeName" value="File '.../policy/src/integration-test/java/com/edgewise/policy/repositories/RecommendedPolicyRepositoryTest.java [policy_integrationTest]'" />
+    <option name="SEARCH_SCOPE" value="File '.../policy/src/integration-test/java/com/edgewise/policy/repositories/RecommendedPolicyRepositoryTest.java [policy_integrationTest]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
