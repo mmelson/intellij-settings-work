@@ -26,7 +26,7 @@
     <mask>*Repository.java</mask>
     <mask>*Controller.java</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
