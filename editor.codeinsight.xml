@@ -16,6 +16,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.api.Component" />
+    <EXCLUDED_PACKAGE NAME="io.logz.sender.com.google" />
     <EXCLUDED_PACKAGE NAME="java.awt.Component" />
     <EXCLUDED_PACKAGE NAME="javax.management.relation.Role" />
     <EXCLUDED_PACKAGE NAME="javax.smartcardio" />
@@ -42,7 +43,7 @@
     <EXCLUDED_PACKAGE NAME="sun.rmi" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
 </application>
