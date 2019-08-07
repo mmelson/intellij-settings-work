@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="restore-Jenkinsfile" type="Groovy" />
-      <mapping pattern="deploy-and-restore-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-backup" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-and-restore-Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="docker-host-vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
