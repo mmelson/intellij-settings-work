@@ -27,7 +27,7 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*ies.java</mask>
-    <mask>*.yml</mask>
     <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
